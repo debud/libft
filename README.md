@@ -11,6 +11,4 @@ Compile libft.a by running make.
 
 Usage
 
-Include it in your C project:
-
-#include "libft.h"
+Include it in your C project: #include "libft.h"
